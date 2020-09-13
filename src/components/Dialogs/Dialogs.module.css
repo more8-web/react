@@ -1,0 +1,8 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.btnSend{
+    margin-bottom: 20px;
+}

@@ -1,0 +1,22 @@
+.dialogsItems{
+    padding: 10px;
+
+}
+
+.dialog .active{
+    color: gold;
+}
+
+.dialog{
+    padding: 10px;
+
+}
+
+.icon {
+    width: 15px;
+    margin-right: 15px;
+}
+
+.link{
+    text-decoration: none;
+}

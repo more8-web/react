@@ -1,0 +1,19 @@
+.awa {
+    width: 100px;
+    border-radius: 40px;
+}
+
+.main-banner {
+    margin: 0 auto;
+    width: 100%;
+    border-radius: 50px;
+}
+
+.img{
+    margin: 0 auto;
+    width: 100%;
+}
+
+.aboutBlock{
+    padding: 10px;
+}
