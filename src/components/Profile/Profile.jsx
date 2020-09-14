@@ -6,7 +6,7 @@ import MyPostsContainer from "./MyPosts/MyPostsContainer";
             return (
                 <div>
                     <ProfileInfo />
-                    <MyPostsContainer store={props.store}/>
+                    <MyPostsContainer />
                 </div>
             );
         }
